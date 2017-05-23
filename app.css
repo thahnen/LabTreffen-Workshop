@@ -1,0 +1,13 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+html, body, <Hier Namen des Divs einfügen> {
+    height: 100%;
+    width: 100%;
+}
+
+/* Wenn man über das Schliessensysmbol hovert ändert sich die Farbe */
+.leaflet-container a.leaflet-popup-close-button:hover {
+    color: #9d132a;
+}
